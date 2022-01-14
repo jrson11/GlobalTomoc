@@ -8,7 +8,9 @@
 - 학업계획서 (SOP) 작성
 
     - 어느 전공이든 Data Uncertainty 를 언급하자 - YouTube:
+    
 - 추천서 준비
+    - 무작정 교수님 3분께 받지 말자 - YouTube:
 
 석사학위
 --------
