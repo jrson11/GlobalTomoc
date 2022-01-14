@@ -8,7 +8,7 @@
 
 - 학업계획서 (SOP) 작성
 
-    - 유학센터 블로그 리뷰: https://m.blog.naver.com/sourbear/221840477241
+    - SOP 관련 유학센터 블로그 리뷰: https://m.blog.naver.com/sourbear/221840477241
 
     - 어느 전공이든 Data Uncertainty 를 언급하자 - YouTube:
     
