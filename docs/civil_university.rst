@@ -12,7 +12,7 @@
 
     - 어느 전공이든 Data Uncertainty 를 언급하자 - YouTube:
     
-    - SOP 무료 첨삭 컨설팅: jon.jungrak.son@gmail.com
+    - SOP 무료 첨삭 컨설팅: 11geoson@gmail.com
     
 - 추천서 준비
 
