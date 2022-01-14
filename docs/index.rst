@@ -5,8 +5,8 @@
    :maxdepth: 1
    :caption: Intro
    
-   강사소개 <./profile>
-   제작목적 <./objective>
+   강사소개 <./intro_profile>
+   제작목적 <./intro_objective>
 
 .. toctree::
    :maxdepth: 1
