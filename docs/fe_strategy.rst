@@ -21,5 +21,8 @@ FE 기본전략
 - 예제 풀이집 2권으로 충분?
 
 
+자료실
+------
+- 왜 NCEES reference handbook 10.1 은 유료인가 >.,<
 - NCEES reference handbook 10.0.1: https://github.com/jrson11/GlobalTomoc/blob/main/src/NCEES-Reference_handbook-10-0-1.pdf
 
