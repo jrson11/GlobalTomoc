@@ -19,3 +19,7 @@ FE 기본전략
 
 - NCEES 가이드
 - 예제 풀이집 2권으로 충분?
+
+
+- NCEES reference handbook 10.0.1: https://github.com/jrson11/GlobalTomoc/blob/main/src/NCEES-Reference_handbook-10-0-1.pdf
+
