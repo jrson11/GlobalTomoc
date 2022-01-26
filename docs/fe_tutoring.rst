@@ -1,31 +1,42 @@
 FE 주제별 공략
 ==============
 
-구조
-----
+Solid Mechanics
+---------------
 
-지반
-----
+- Statics
+- Dynamics
+- Material mechanics
+- Materials
+
+Fluid Mechanics
+---------------
+
+- Hydraulics
+- Water resources
+
+Transportation + Surveying
+---------------------------
+- Transportation
+- Surveying
+
+Structural ENG
+--------------
 
 
-수공학
-------
-
-환경
------
+Geotechnical ENG
+----------------
 
 
-교통
------
+CM + etc
+--------
+- Ethics
+- Economics
 
 
 
-측량
-----
-
-
-건설시공
+Math
 --------
 
-기타
-----
+- Statistics
+
