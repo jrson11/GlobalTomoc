@@ -18,5 +18,5 @@
 토목석사 취업 성공 사례 
 ----------------------
 
-- 명함으로 들이대고 취업하기 - YouTube:https://www.youtube.com/watch?v=9BpjsGAG8NI
+- 명함으로 들이대고 취업하기 - YouTube: https://www.youtube.com/watch?v=9BpjsGAG8NI
 - 결국은 PE 라이센스다 - YouTube:
