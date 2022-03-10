@@ -10,8 +10,8 @@ FE 기본전략
 준비방법
 --------
 
-- 쉬운내용 / 어려운내용 선별
-- 
+- 쉬운 내용 / 어려운 내용 선별 (50/50)
+- 쉬운 내용 다 맞추고 어려운 내용 반 맞추면 50 + 25 해서 75점 통과
 
 
 준비범위
@@ -23,6 +23,6 @@ FE 기본전략
 
 자료실
 ------
-- 왜 NCEES reference handbook 10.1 은 유료인가 >.,<
+- NCEES reference handbook 10.1 왜 유료인가 >.,<
 - NCEES reference handbook 10.0.1: https://github.com/jrson11/GlobalTomoc/blob/main/src/NCEES-Reference_handbook-10-0-1.pdf
 
