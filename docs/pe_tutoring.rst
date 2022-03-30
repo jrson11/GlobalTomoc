@@ -5,28 +5,27 @@ Civil 공통과목
 -------------
 
 01. Project Planning
-````````````````````
 
 02. Means and Methods
-````````````````````
+
 
 03. Soil Mechanics
-````````````````````
+
 
 04. Structural Mechanics
-````````````````````
+
 
 05. Hydraulics and Hydrology
-````````````````````
+
 
 06. Geometrics
-````````````````````
+
 
 07. Materials
-````````````````````
+
 
 08. Site Development
-````````````````````
+
 
 Geotechnics 전공과목
 -------------
