@@ -10,7 +10,7 @@
 
     - SOP 관련 유학센터 블로그 리뷰: https://m.blog.naver.com/sourbear/221840477241
     - 어느 전공이든 Data Uncertainty 를 언급하자 - 
-    - SOP 는 오롯이 미국문화에 맞춰서 작성해야 - 
+    - SOP 는 반드시 미국문화에 맞춰서 작성해야 - 
     
 - 추천서 준비
 
