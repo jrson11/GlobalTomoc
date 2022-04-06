@@ -30,7 +30,7 @@
 졸업 전략
 --------
 
-- 박사 4년 졸업하기: YouTube - https://www.youtube.com/watch?v=uwHcYNmTmoI
+- 박사 4년 졸업하기 Ep1. 박사 퀄시험과 PE: YouTube - https://www.youtube.com/watch?v=uwHcYNmTmoI
 
 
 전공별 유학 현황
