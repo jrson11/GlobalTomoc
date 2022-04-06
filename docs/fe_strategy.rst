@@ -24,5 +24,5 @@ FE 기본전략
 자료실
 ------
 - NCEES reference handbook 10.1 왜 유료인가 >.,<
-- NCEES reference handbook 10.0.1: https://github.com/jrson11/GlobalTomoc/blob/main/src/NCEES-Reference_handbook-10-0-1.pdf
+- NCEES reference handbook 10.0.1 - https://github.com/jrson11/GlobalTomoc/blob/main/src/NCEES-Reference_handbook-10-0-1.pdf
 
