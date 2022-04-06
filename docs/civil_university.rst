@@ -20,11 +20,13 @@
 
 학위 과정
 --------
+- 미국박사란?: YouTube - https://www.youtube.com/watch?v=8HzE-NQKkwo
+
 - 석박사 비용 정리: YouTube - https://www.youtube.com/watch?v=Yx7jP3HtYiA
+
 - 석사할까 박사할까? 빅데이터 분석을 통한 그룹별 전략 검토: YouTube - https://www.youtube.com/watch?v=4YTu92oW9Bg
 - 석사할까 박사할까? 영주권 때문이라도 박사가자: YouTube - https://www.youtube.com/watch?v=w8YnQUrRb24
 
-- 박사 주의점
 
 
 졸업 전략
