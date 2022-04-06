@@ -1,6 +1,7 @@
 강사 소개
 =========
 ID: 글로벌 토목인
+email: glocivilngneer@gmail.com 
 
 학위 및 경력
 ------------
