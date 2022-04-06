@@ -20,7 +20,7 @@
 
 학위 과정
 --------
-- 미국박사란?: YouTube - https://www.youtube.com/watch?v=8HzE-NQKkwo
+- 미국박사 란?: YouTube - https://www.youtube.com/watch?v=8HzE-NQKkwo
 
 - 석박사 비용 정리: YouTube - https://www.youtube.com/watch?v=Yx7jP3HtYiA
 
