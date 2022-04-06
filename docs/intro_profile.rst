@@ -3,6 +3,7 @@
 
 - ID: 글로벌 토목인
 - email: glocivilngneer@gmail.com 
+- 직책: 글로벌 기업 해상풍력 프로젝트 엔지니어 in Houston, TX, USA
 
 학위 및 경력
 ------------
