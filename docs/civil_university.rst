@@ -33,7 +33,9 @@
 --------
 
 - 박사 4년 졸업하기 Ep1. 박사 퀄시험과 PE: YouTube - https://www.youtube.com/watch?v=uwHcYNmTmoI
-
+- 박사 4년 졸업하기 Ep2. 박사 중 인턴: YouTube -
+- 박사 4년 졸업하기 Ep3. 박사 슬러프: YouTube - https://www.youtube.com/watch?v=FkM0-Cnd6hA
+- 박사 4년 졸업하기 Ep4. 박사 막바지 영주권 신청 (NIW): YouTube -
 
 전공별 유학 현황
 -------------
